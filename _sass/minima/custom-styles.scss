@@ -1,0 +1,81 @@
+// $color-primary: #E0CDAC;
+
+@use "sass:color";
+
+.mainmatter {
+	display: flex;
+	flex-direction: row;
+}
+
+
+.site-header {
+  border: unset;
+  height: 100%;
+  max-width: 20em;
+  right: 0;
+  z-index: 1;
+
+  .wrapper {
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-end;
+  	gap: 1em;
+  	margin: 0;
+  	padding: 0;
+  }
+
+  .nav-items {
+  	font-family: "Geo";
+  	font-size: 3em;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-end;
+
+  	.nav-item {
+  		margin: 0;
+  		padding-right: 0.2em;
+  	}
+  }
+}
+
+.site-title-container {
+	float: right;
+	right: 0;
+	top: 0;
+	background-color: var(--minima-background-color);
+	height: 13em;
+	width: 13em;
+	padding: 1em;
+	border: 5px solid var(--minima-brand-color);
+}
+
+.site-title {
+	font-family: "CNT Upright";
+	font-size: 5em;
+	line-height: 0.9em;
+}
+
+.post {
+	.header-wrapper {
+	  display: flex;
+	  flex-direction: row;
+
+  	.site-title: {
+			font-size: 2em;
+		}
+
+		.post-header {
+			flex-grow: 1;
+		}
+	}
+}
+
+.spacer {
+	flex-grow: 1;
+}
+
+footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}

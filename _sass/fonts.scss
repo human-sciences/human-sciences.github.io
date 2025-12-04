@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'CNT upright';
+  src: url('../fonts/CNTupright.woff2') format('woff2'),
+      url('../fonts/CNTupright.woff') format('woff'),
+      url('../fonts/CNTupright.otf') format ('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* geo-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Geo';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/geo-v23-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}

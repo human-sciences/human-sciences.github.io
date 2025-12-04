@@ -5,4 +5,7 @@
 layout: home
 ---
 
+
+<div class="fancy-text">
 What's up this is the website at online dot com
+</div>

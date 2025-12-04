@@ -1,0 +1,17 @@
+.home {
+	height: 100%;
+}
+
+
+.fancy-text {
+	margin: auto;
+	height: 100%;
+	font-size: 5em;
+	transform: translateY(2em) rotate(-40deg);
+	font-style: italic;
+  transition: 1s;
+
+  &:hover {
+  	transform: translateY(2em) rotate(40deg);
+  }
+}
