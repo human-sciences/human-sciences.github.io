@@ -13,7 +13,7 @@ $color-scheme-dark: false !default;
 // Light mode
 // ----------
 
-$lm-brand-color:           #E0CDAC !default;
+$lm-brand-color:           #E07900 !default;
 $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
 $lm-brand-color-dimmed:    darken($lm-brand-color, 11%) !default;
 $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
@@ -22,7 +22,7 @@ $lm-site-title-color:      $lm-brand-color-dark !default;
 
 $lm-heading-color:         #111111 !default;
 $lm-text-color:            $lm-brand-color-dark !default;
-$lm-background-color:      #fdfdfd !default;
+$lm-background-color:      #F6F1E8 !default;
 $lm-code-background-color: #f6f8fa !default;
 
 $lm-link-base-color:       #DA7100 !default;
@@ -279,6 +279,7 @@ $table-border-color: $lm-table-border-color;
     --minima-site-title-color: #{$lm-site-title-color};
 
     --minima-heading-color: #{$lm-heading-color};
+    --minima-heading-border-color: #{$lm-brand-color-dark};
     --minima-text-color: #{$lm-text-color};
     --minima-background-color: #{$lm-background-color};
     --minima-code-background-color: #{$lm-code-background-color};
@@ -296,6 +297,7 @@ $table-border-color: $lm-table-border-color;
     --minima-table-header-bg-color: #{$lm-table-header-bg-color};
     --minima-table-header-border: #{$lm-table-header-border};
     --minima-table-border-color: #{$lm-table-border-color};
+
   }
 
   @include lm-highlight;
@@ -310,6 +312,7 @@ $table-border-color: $lm-table-border-color;
       --minima-site-title-color: #{$dm-site-title-color};
 
       --minima-heading-color: #{$dm-heading-color};
+      --minima-heading-border-color: #{$dm-brand-color};
       --minima-text-color: #{$dm-text-color};
       --minima-background-color: #{$dm-background-color};
       --minima-code-background-color: #{$dm-code-background-color};
