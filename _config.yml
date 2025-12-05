@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Institute of Human Sciences
+title: Institute for Human Sciences
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the institute of human sciences, can i get a hell ya
+  This is the Institute for Human Sciences, can i get a hell ya
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  human-sciences
