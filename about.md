@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Human Sciences is an international institute for explorations and interventions in research, education, art, and publishing. Our work is propelling by the question: What does it mean to be human?
+Human Sciences is an international institute for explorations and interventions in research, education, art, and publishing. Our work is propelled by the question: What does it mean to be human?
 
 As knowledge, creativity, and communication are increasingly rendered artificial; as our technology and institutions fail us, where can we still find meaning? We are a collective of scholars, artists, designers, developers, community organisers, and library workers developing a new vision for how we share information and enter into dialogue with one another.
 
