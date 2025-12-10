@@ -6,21 +6,29 @@ permalink: /people/
 
 [Anton Bruder](https://www.zotero.org/antonbruder), Utrecht
 
-Leandro Cascon, Leiden
+[Leandro Matthews Cascon](https://netias.science/fellows/cascon-leandro-matthews-2025-2026), Leiden
 
 [Ramzi Fawaz](https://www.ramzifawaz.com/), Madison
 
 [Joshua Gamma](https://www.joshuagamma.com/), Baltimore
 
+Elli Gerakopoulou, Athens
+
 [Chris Hartgerink](https://www.chjh.nl/), Berlin
+
+[Sharif Islam](https://www.sharifislam.com/), Leiden
 
 [Annette Markham](https://annettemarkham.com/), Utrecht
 
 [Mason McFee](https://hellomaseman.com), Austin
 
-[Kevin McNamee-Tweed](https://kevinmcnameetweed.com/), Lexington
+[Kevin McNamee-Tweed](https://kevinmcnameetweed.com/), Blue Ridge Mountains
+
+Samuel Moore, Cambridge
 
 [Kevin Muñoz](https://www.kevinmunoz.us/), Austin
+
+Daniel Northcutt, Berkshires
 
 Jenn Northcutt, Berkshires
 
@@ -53,3 +61,7 @@ Chase Wrayford, Utrecht
 [Futures + Literacy + Media Lab](https://fll.pubpub.org)
 
 Institute of Pirate Technology
+
+Civics Laboratory
+
+Cambridge Centre for Open Research
