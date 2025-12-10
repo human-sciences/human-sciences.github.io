@@ -38,6 +38,7 @@ minima:
   skin: ihs-theme
   nav_pages:
     - about.md
+    - people.md
     - blog.md
 
 # Exclude from processing.
