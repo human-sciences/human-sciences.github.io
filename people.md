@@ -6,6 +6,8 @@ permalink: /people/
 
 [Anton Bruder](https://www.zotero.org/antonbruder), Utrecht
 
+Jendrek Burakiewicz, Leiden
+
 [Leandro Matthews Cascon](https://netias.science/fellows/cascon-leandro-matthews-2025-2026), Leiden
 
 [Ramzi Fawaz](https://www.ramzifawaz.com/), Madison
@@ -13,6 +15,8 @@ permalink: /people/
 [Joshua Gamma](https://www.joshuagamma.com/), Baltimore
 
 Elli Gerakopoulou, Athens
+
+[Sinje Grenzdörffer](https://snjgrnzdrffer.com/), Bern
 
 [Chris Hartgerink](https://www.chjh.nl/), Berlin
 
@@ -64,4 +68,4 @@ Institute of Pirate Technology
 
 Civics Laboratory
 
-Cambridge Centre for Open Research
+Open Research Lab
