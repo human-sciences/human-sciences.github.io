@@ -40,6 +40,8 @@ minima:
     - about.md
     - <a href="https://www.are.na/institute-for-human-sciences/index">Programs</a>
     - <a href="https:/humansciences.micro.blog">Microblog</a>
+    - [Programs](https:///www.are.na/institute-for-human-sciences/index)
+    - [Microblog](https://humansciences.micro.blog)
     - people.md
     - blog.md
 
