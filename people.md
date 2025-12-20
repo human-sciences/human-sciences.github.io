@@ -66,6 +66,6 @@ Chase Wrayford, Utrecht
 
 Institute of Pirate Technology
 
-Civics Laboratory
+[Civic Interplay](https://civicinterplay.io)
 
 Open Research Lab
