@@ -38,10 +38,9 @@ minima:
   skin: ihs-theme
   nav_pages:
     - about.md
-    - <a href="https://www.are.na/institute-for-human-sciences/index">Programs</a>
-    - <a href="https:/humansciences.micro.blog">Microblog</a>
+    - <a href="https://www.are.na/institute-for-human-sciences/index"> Programs </a>
+    - <a href="https:/humansciences.micro.blog"> Microblog </a>
     - people.md
-    - blog.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
