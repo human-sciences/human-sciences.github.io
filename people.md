@@ -46,6 +46,8 @@ Sean Ripple, Austin
 
 [Jonny Saunders](https://jon-e.net/), Los Angeles
 
+Lauren Serota, Austin
+
 Benjamin Storme, Leiden
 
 [Andrew Stevens](https://battlebend.bandcamp.com/), Marfa
