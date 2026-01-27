@@ -21,7 +21,7 @@
 title: Institute for Human Sciences
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the Institute for Human Sciences, can i get a hell ya
+Institute for Human Sciences, *multis e gentibus vires*
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  human-sciences
@@ -38,8 +38,8 @@ minima:
   skin: ihs-theme
   nav_pages:
     - about.md
-    - <a href="https://www.are.na/institute-for-human-sciences/index"> Programs </a>
-    - <a href="https:/humansciences.micro.blog"> Microblog </a>
+    - [Programs](https://www.are.na/institute-for-human-sciences/index)
+    - [Microblog](https:/humansciences.micro.blog)
     - people.md
 
 # Exclude from processing.
