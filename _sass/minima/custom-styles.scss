@@ -5,6 +5,7 @@
 .mainmatter {
 	display: flex;
 	flex-direction: row;
+	flex-grow: 1;
 }
 
 
@@ -43,10 +44,13 @@
 	right: 0;
 	top: 0;
 	background-color: var(--minima-background-color);
-	height: 13em;
-	width: 13em;
+	height: 15em;
+	width: 15em;
 	padding: 1em;
 	border: 5px solid var(--minima-heading-border-color);
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 .site-title {
@@ -75,7 +79,5 @@
 }
 
 footer {
-	position: absolute;
-	bottom: 0;
 	width: 100%;
 }
