@@ -38,8 +38,10 @@ minima:
   skin: ihs-theme
   nav_pages:
     - about.md
-    - [Programs](https://www.are.na/institute-for-human-sciences/index)
-    - [Microblog](https:/humansciences.micro.blog)
+    - url: https://www.are.na/institute-for-human-sciences/index
+    title: Programs
+    - url: https://humansciences.micro.blog
+    title: Microblog
     - people.md
 
 # Exclude from processing.
