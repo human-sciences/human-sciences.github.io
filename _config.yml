@@ -39,9 +39,9 @@ minima:
   nav_pages:
     - about.md
     - url: https://www.are.na/institute-for-human-sciences/index
-    title: Programs
+      title: Programs
     - url: https://humansciences.micro.blog
-    title: Microblog
+      title: Microblog
     - people.md
 
 # Exclude from processing.

@@ -2,6 +2,8 @@
 layout: page
 title: People
 permalink: /people/
+extra_js:
+  - /assets/js/randomize.js
 ---
 
 [Anton Bruder](https://www.zotero.org/antonbruder), Utrecht
