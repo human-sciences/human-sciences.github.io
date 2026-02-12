@@ -6,6 +6,8 @@ extra_js:
   - /assets/js/randomize.js
 ---
 
+Megan Bontempo, Oakland
+
 [Anton Bruder](https://www.zotero.org/antonbruder), Utrecht
 
 Jendrek Burakiewicz, Leiden
@@ -22,7 +24,11 @@ Elli Gerakopoulou, Athens
 
 [Chris Hartgerink](https://www.chjh.nl/), Berlin
 
+Madeline Harvey, Austin
+
 [Sharif Islam](https://www.sharifislam.com/), Leiden
+
+Art Levy, Wellington
 
 [Annette Markham](https://annettemarkham.com/), Utrecht
 
@@ -33,6 +39,8 @@ Elli Gerakopoulou, Athens
 Samuel Moore, Cambridge
 
 [Kevin Muñoz](https://www.kevinmunoz.us/), Austin
+
+Catherine Naiser, Louisville
 
 Daniel Northcutt, Berkshires
 
@@ -50,11 +58,15 @@ Sean Ripple, Austin
 
 Lauren Serota, Austin
 
+Mees van Stiphout, Amsterdam
+
 Benjamin Storme, Leiden
 
 [Andrew Stevens](https://battlebend.bandcamp.com/), Marfa
 
 Julien Taquet, Aix-en-Provence
+
+Taylor Tehan, Paris
 
 Tamara Becerra Valdez, Cologne
 
@@ -64,7 +76,7 @@ Chase Wrayford, Utrecht
 
 [Jess Wrayford](https://www.ams-institute.org/about-ams/team/ams-staff/jessica-wreyford/), Utrecht
 
-## Affiliated Organisations
+## Affiliated People & Organisations
 
 [Futures + Literacy + Media Lab](https://fll.pubpub.org)
 
