@@ -38,6 +38,7 @@ minima:
   skin: ihs-theme
   nav_pages:
     - about.md
+    - journal.md
     - url: https://www.are.na/institute-for-human-sciences/index
       title: Programs
     - url: https://humansciences.micro.blog
